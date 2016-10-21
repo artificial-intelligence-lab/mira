@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bin/www" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="$USER_HOME$/speech-to-text-watson/bin/www" working-dir="$USER_HOME$/speech-to-text-watson">
+    <envs>
+      <env name="DEBUG" value="text-to-speech-watson:*" />
+    </envs>
+    <browser url="http://localhost:3000/" />
+    <method />
+  </configuration>
+</component>
